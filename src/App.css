@@ -13,7 +13,7 @@
 }
 
 .mekanisme-card{
-    height: 100vh;
+    /* height: 100vh; */
     background-image: url(./assets/BackgroundMekanisme.png);
     background-repeat: no-repeat;
     background-position: center;
