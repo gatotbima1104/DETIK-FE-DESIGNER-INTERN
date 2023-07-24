@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-section{
+    background-image: url(./assets/Background.png);
+    height: 100vh;
+    background-position: center;
+}
+
+.mekanis-section{
+    height: 50vh;
+}
+
+.mekanisme-card{
+    height: 100vh;
+    background-image: url(./assets/BackgroundMekanisme.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 130%;
+}
+
+
+.marque{
+    height: 50vh;
+}
+
+.formCustom input{
+    background-color: #2121;
+    border-radius: 10px;
+}
